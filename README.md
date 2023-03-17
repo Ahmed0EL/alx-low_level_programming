@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ALX School - 0x00-hello_world
 Compiling very simple programs with gcc. Learning the steps of compilation.
 ## New commands / functions used:
@@ -27,3 +28,6 @@ You are tasked to come up with solutions for the tasks below yourself to meet wi
 You will not be able to meet the objectives of this or any following project by copying and pasting someone else’s work.
 You are not allowed to publish any content of this project.
 Any form of plagiarism is strictly forbidden and will result in removal from the program. 
+=======
+# alx-low_level_programming
+>>>>>>> 35c4fda7f6a78918a9b5a29bdcff82f1cff67d8b
